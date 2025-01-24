@@ -10,6 +10,8 @@ O relatório está dividido em três páginas principais, cada uma com diferente
 
 ## Página 1: Sales Report
 
+![Pagina1](https://github.com/WenFra005/Relatorio-Personalizado-Atualizado/blob/main/imagens/Imagem1.png)
+
 **Resumo:**
 
 - Exibe a soma total de vendas e unidades vendidas.
@@ -31,6 +33,8 @@ O relatório está dividido em três páginas principais, cada uma com diferente
 
 ## Página 2: Report de Lucro Detalhado
 
+![Pagina2](https://github.com/WenFra005/Relatorio-Personalizado-Atualizado/blob/main/imagens/Imagem2.png)
+
 **Resumo:**
 
 - Análise de lucro detalhada por ano e país.
@@ -49,6 +53,8 @@ O relatório está dividido em três páginas principais, cada uma com diferente
 ---
 
 ## Página 3: Report de Vendas Detalhado
+
+![Pagina3](https://github.com/WenFra005/Relatorio-Personalizado-Atualizado/blob/main/imagens/Imagem3.png)
 
 **Resumo:**
 
